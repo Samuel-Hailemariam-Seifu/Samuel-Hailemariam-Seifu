@@ -2,7 +2,7 @@
 ### AI Engineer | Software Engineer | AI Educator
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Hailemariam-Seifu&show_icons=true&theme=radical&hide_border=true" alt="Samuel's Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Hailemariam-Seifu&theme=tokyo-night&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Hailemariam-Seifu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
