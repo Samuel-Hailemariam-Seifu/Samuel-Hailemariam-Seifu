@@ -1,100 +1,154 @@
-# Samuel Hailemariam
-AI Engineer | Software Engineer | AI Educator
+<h1 align="center">Samuel Hailemariam</h1>
+<h3 align="center">AI Engineer | Software Engineer | AI Educator</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Hailemariam-Seifu&show_icons=true&theme=default&hide_border=true&cache_seconds=60&v=3" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Hailemariam-Seifu&layout=compact&theme=default&hide_border=true&cache_seconds=60&v=3" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Samuel-Hailemariam-Seifu&theme=default&hide_border=true" />
+Building intelligent systems, scalable platforms, and real-world AI applications.
 </p>
 
 ---
 
-## About
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Samuel-Hailemariam-Seifu&show_icons=true&theme=default&hide_border=true&cache_seconds=60&v=4" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Hailemariam-Seifu&layout=compact&theme=default&hide_border=true&cache_seconds=60&v=4" height="165"/>
+</p>
 
-I am an AI engineer and software developer focused on building scalable software systems and real-world AI applications.
-
-My work combines machine learning, backend engineering, and system design to develop reliable and production-ready platforms.
-
-Current areas of focus include:
-
-- Machine learning systems
-- AI agents and intelligent applications
-- AI system architecture and deployment
-- Educational resources for AI engineering
-
-I am also developing a structured **AI Engineering learning pathway** covering the progression from programming foundations to production AI systems.
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Samuel-Hailemariam-Seifu&theme=default&hide_border=true"/>
+</p>
 
 ---
 
-## Technical Stack
+# About
 
-### Programming Languages
-Python
+I am an **AI engineer and software developer** focused on building **production-ready intelligent systems and scalable software platforms**.
 
-### Machine Learning
-PyTorch  
-TensorFlow  
+My work combines **machine learning, backend engineering, and system architecture** to develop reliable and impactful software solutions.
 
-### Backend Development
-Django  
-Django REST Framework  
+Areas I actively work on:
 
-### Frontend Development
-Next.js  
+- Machine learning systems  
+- AI agents and intelligent applications  
+- AI infrastructure and deployment  
+- scalable backend systems  
+- AI engineering education  
 
-### Databases
-PostgreSQL  
-Redis  
-
-### Infrastructure
-Docker  
+I am also developing a **complete AI Engineering learning pathway** guiding developers from **programming foundations to real production AI systems**.
 
 ---
 
-## Selected Projects
+# Technology Stack
 
-### TransportPro — Logistics and Transportation Platform
-A logistics management platform designed to coordinate transportation workflows, fleet operations, and supply chain activities.
+## Programming
 
-### Fleet Management System
-A system for managing vehicles, operational workflows, and logistics processes.
-
-### Human Resource Information Management System (HRIMS)
-Enterprise HR platform including both client-side and server-side systems supporting employee management and HR processes.
-
-### Expense Tracker
-A financial tracking application for managing expenses and personal budgeting.
-
-### Quiz Application
-Interactive web-based system designed for educational assessment and learning.
-
-### Notes Application
-Lightweight note management application for organizing and storing information.
-
-### Command Line Calculator
-A command-line utility for performing arithmetic operations.
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
 ---
 
-## AI Engineering Education
+## Machine Learning & AI
 
-I am currently developing a comprehensive **AI Engineering educational series** covering:
-
-- Programming foundations
-- Machine learning fundamentals
-- AI agents
-- AI system design
-- production deployment of AI systems
-
-The goal is to provide a structured path for developers progressing from beginner to advanced AI engineering.
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
 ---
 
-## Contact
+## Backend Frameworks
 
-LinkedIn  
-YouTube  
-X (Twitter)
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+</p>
+
+---
+
+## Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
+
+---
+
+## Databases & Backend Services
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+---
+
+## Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+# AI Applications
+
+### Autonomous Research Agent
+
+An AI agent capable of gathering information, analyzing sources, and generating structured research outputs.
+
+### Document Intelligence Chatbot
+
+A conversational AI system designed to answer questions from structured and unstructured documents.
+
+### AI Trading Intelligence System
+
+A machine learning system for analyzing financial market data and generating predictive insights.
+
+---
+
+# Platforms & Systems
+
+### University Learning Management System (LMS)
+
+A full academic platform supporting course management, grading systems, assignments, exams, and student analytics.
+
+### Ecommerce Platform
+
+A scalable ecommerce platform supporting product catalogs, orders, payments, and vendor operations.
+
+### Inventory Management System
+
+A system designed to manage stock levels, warehouse operations, and supply chain workflows.
+
+### TransportPro — Logistics & Transportation Platform
+
+A logistics platform coordinating fleet operations, transportation workflows, and supply chain management.
+
+---
+
+# AI Engineering Education
+
+I am developing a **comprehensive AI Engineering educational series** covering:
+
+- programming foundations  
+- machine learning fundamentals  
+- AI agents  
+- AI system architecture  
+- real-world AI applications  
+- production AI deployment  
+
+The goal is to create a **structured roadmap that guides developers from beginner to advanced AI engineering**.
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
