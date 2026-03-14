@@ -1,11 +1,11 @@
-<h1 align="center">Samuel Hailemariam</h1>
+<h1 align="center">Samuel Hailemariam Seifu</h1>
 <h3 align="center">AI Engineer | Software Engineer | AI Educator</h3>
 
 <p align="center">
 Building intelligent systems, scalable platforms, and practical AI applications.
 </p>
 
----
+
 
 <p align="center">
    <img src="https://streak-stats.demolab.com/?user=Samuel-Hailemariam-Seifu&theme=default&hide_border=true"/>
@@ -13,7 +13,6 @@ Building intelligent systems, scalable platforms, and practical AI applications.
 </p>
 
 
----
 
 # About
 
@@ -31,7 +30,6 @@ Areas I actively work on:
 
 I am also developing a **complete AI Engineering learning pathway** that guides developers from **programming foundations to real production AI systems**.
 
----
 
 # Technology Stack
 
@@ -76,7 +74,6 @@ I am also developing a **complete AI Engineering learning pathway** that guides 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
 # AI Applications
 
@@ -91,8 +88,6 @@ A conversational AI system designed to answer questions from structured and unst
 ### AI Trading Intelligence System
 
 A system for analyzing financial market data and generating predictive insights using machine learning models.
-
----
 
 # Platforms & Systems
 
@@ -112,8 +107,6 @@ A system designed to manage stock levels, warehouse operations, and supply chain
 
 A logistics platform designed to coordinate fleet operations, transportation workflows, and supply chain processes.
 
----
-
 # AI Engineering Education
 
 I am developing a **comprehensive AI Engineering educational series** covering:
@@ -127,7 +120,6 @@ I am developing a **comprehensive AI Engineering educational series** covering:
 
 The objective is to provide a **structured roadmap for developers progressing from beginner to advanced AI engineering**.
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
