@@ -1,94 +1,124 @@
 # Hi there, I'm Samuel Hailemariam 👋
-### AI Engineer | Software Engineer | AI Educator | Content Creator
+### AI Engineer | Software Engineer | AI Educator
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelhailemariam&show_icons=true&theme=radical&hide_border=true" alt="Samuel's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhailemariam&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Hailemariam-Seifu&show_icons=true&theme=radical&hide_border=true" alt="Samuel's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Hailemariam-Seifu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 About Me
-I am an **AI Engineer and Software Developer** focused on building real-world AI systems and scalable backend platforms.  
+# 🚀 About Me
 
-My work combines **mathematics, machine learning, and software engineering** to deliver production-ready AI solutions.
+I am an **AI Engineer and Software Developer** focused on building **real-world systems and scalable platforms**.
 
-* 🔭 **Currently building:** AI Engineering educational series and real AI products from beginner → senior level.
-* 🧠 **Focus Areas:** AI Engineering, Machine Learning Systems, AI Agents, and System Design.
-* 🏫 **Projects:** Developing large-scale systems including a **University Learning Management System (LMS)** and AI-driven applications.
-* 🌍 **Global Vision:** Building AI systems and educational content aimed at developers worldwide.
-* 🎙️ **Media:** Featured on national TV discussing the future of AI and how AI differs from human intelligence.
+My work combines **machine learning, backend engineering, and system design** to create intelligent software systems.
+
+- 🔭 Currently working on **AI Engineering educational content and real AI systems**
+- 🧠 Interested in **Machine Learning Systems, AI Agents, and System Design**
+- 🏗 Building large-scale platforms including **logistics, HR systems, and SaaS applications**
+- 🌍 Focused on creating **globally competitive AI engineering projects**
+- 🎙 Featured on **national television discussing the future of AI**
 
 ---
 
-## 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+# 🛠 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 # 🧪 Featured Projects
 
-## 🤖 AI & Machine Learning
-* **AI Agents Framework** — Autonomous research agents capable of gathering, analyzing, and synthesizing information.
-* **AI Trading Intelligence System** — Architecture for data-driven financial market prediction systems.
-* **Local LLM Chatbot** — Private conversational AI built using open-source LLMs.
-* **Machine Learning From Scratch** — Educational implementations of core ML algorithms.
+## Enterprise Systems
 
-## 🏗️ Systems & Platforms
-* **University LMS Platform**  
-  Full enterprise-grade LMS built with:
-  - Next.js
-  - Django REST Framework
-  - PostgreSQL
-  - Redis + Celery
+### 🚚 TransportPro — Logistics & Transportation Platform
+A logistics and transportation management platform designed for fleet operations and supply chain coordination.
 
-* **AI Learning Platform**  
-  AI-powered education system designed for scalable online learning.
+### 🚛 Fleet Management System
+A platform for managing vehicles, operations, and logistics workflows.
 
-* **AI SaaS Infrastructure**  
-  Multi-tenant backend architecture for scalable AI services.
+### 🏢 HRIMS (Human Resource Information Management System)
+
+- Client-side application
+- Server-side backend
+- Employee management and HR workflows
+
+---
+
+## Web Applications
+
+### 📝 Simple Blog
+A blogging platform demonstrating full-stack web development.
+
+### 📊 Expense Tracker
+A personal finance management tool for tracking spending and budgeting.
+
+### 🧠 Quiz App
+Interactive quiz platform for learning and assessment.
+
+### 🗒 Notes App
+A web-based note management application.
+
+---
+
+## Developer Tools
+
+### 🧮 Calculator CLI
+Command-line calculator tool built with Python.
+
+### ⏱ Stopwatch App
+A simple timer application.
+
+### ⏳ Countdown App
+A countdown timer application.
 
 ---
 
 # 📚 AI Engineering Educational Series
-I am currently producing a **full AI Engineering curriculum from beginner to senior level**, covering:
 
-* Python Engineering
-* Machine Learning Foundations
-* AI Agents
-* System Design for AI
-* Real-world AI products
-* End-to-end AI deployment
+I am creating a **complete AI Engineering learning pathway** covering:
 
-The goal is to create one of the **most complete AI Engineering learning paths available online**.
+- Python engineering
+- Machine learning foundations
+- AI agents
+- system design for AI
+- real-world AI systems
+- production deployment
+
+The goal is to build **one of the most comprehensive AI engineering learning resources available online**.
 
 ---
 
 # 📺 Content & Community
-I actively share insights about **AI, engineering, and technology** through public talks and educational content.
 
-* 🎙️ Featured on national television discussing **the future of AI and human intelligence**
-* 📚 Publishing **full lecture series on AI Engineering**
-* 🌍 Building a community of developers interested in advanced AI systems
+I actively share knowledge about **AI, software engineering, and technology**.
 
----
+- 🎙 Featured on national TV discussing AI
+- 📚 Publishing AI engineering lectures and tutorials
+- 🌍 Building a community of developers interested in advanced AI systems
 
-# 📬 Get In Touch
-
-💼 **Open to collaborations, research opportunities, and AI engineering projects**
-
-* 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
-* 🐦 X (Twitter): https://twitter.com/YOUR_X
-* 📺 YouTube: https://youtube.com/YOUR_CHANNEL
 
 ---
 
