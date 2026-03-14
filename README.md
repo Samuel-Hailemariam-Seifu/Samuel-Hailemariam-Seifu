@@ -8,13 +8,10 @@ Building intelligent systems, scalable platforms, and real-world AI applications
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Samuel-Hailemariam-Seifu&show_icons=true&theme=default&hide_border=true&cache_seconds=60&v=4" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Samuel-Hailemariam-Seifu&theme=default&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Hailemariam-Seifu&layout=compact&theme=default&hide_border=true&cache_seconds=60&v=4" height="165"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Samuel-Hailemariam-Seifu&theme=default&hide_border=true"/>
-</p>
 
 ---
 
@@ -42,8 +39,8 @@ I am also developing a **complete AI Engineering learning pathway** guiding deve
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ---
@@ -64,6 +61,7 @@ I am also developing a **complete AI Engineering learning pathway** guiding deve
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
