@@ -1,5 +1,9 @@
-<h1 align="center">Samuel Hailemariam</h1>
-<h3 align="center">AI Engineer | Software Engineer | AI Educator</h3>
+
+<h1 align="center">Samuel Hailemariam Seifu</h1>
+
+<p align="center">
+AI Engineer • Software Engineer • AI Educator
+</p>
 
 <p align="center">
 Building intelligent systems, scalable platforms, and real-world AI applications.
@@ -7,146 +11,215 @@ Building intelligent systems, scalable platforms, and real-world AI applications
 
 ---
 
+# GitHub Statistics
+
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Samuel-Hailemariam-Seifu&theme=default&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Hailemariam-Seifu&layout=compact&theme=default&hide_border=true&cache_seconds=60&v=4" height="165"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Hailemariam-Seifu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Hailemariam-Seifu&layout=compact&theme=tokyonight"/>
+
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Samuel-Hailemariam-Seifu&theme=tokyonight"/>
+</p>
 
 ---
 
-# About
+# About Me
 
-I am an **AI engineer and software developer** focused on building **production-ready intelligent systems and scalable software platforms**.
+I am an **AI Engineer and Software Developer** focused on building **real-world intelligent systems and scalable platforms**.
 
-My work combines **machine learning, backend engineering, and system architecture** to develop reliable and impactful software solutions.
+My work combines:
 
-Areas I actively work on:
+• Machine Learning  
+• Backend Engineering  
+• System Design  
+• Product Development  
 
-- Machine learning systems  
-- AI agents and intelligent applications  
-- AI infrastructure and deployment  
-- scalable backend systems  
-- AI engineering education  
-
-I am also developing a **complete AI Engineering learning pathway** guiding developers from **programming foundations to real production AI systems**.
+I build **AI applications, automation systems, and scalable web platforms**.
 
 ---
 
-# Technology Stack
+# Tech Stack
 
-## Programming
+## Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,sql" />
+
 </p>
 
 ---
 
-## Machine Learning & AI
+## AI & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
 </p>
 
 ---
 
-## Backend Frameworks
+## Backend Development
 
 <p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+
 </p>
 
 ---
 
-## Frontend
+## Frontend Development
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+
 </p>
 
 ---
 
-## Databases & Backend Services
+## Databases & Infrastructure
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux" />
+
 </p>
 
 ---
 
-## Infrastructure
+## Tools
 
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 </p>
 
 ---
 
-# AI Applications
+# Featured Projects
+
+## AI Applications
+
+### AI Agent Platform
+
+A system for building intelligent AI agents capable of interacting with tools, APIs, and external knowledge sources.
+
+Technologies:
+
+Python • FastAPI • Redis • PostgreSQL • LLM APIs
+
+---
 
 ### Autonomous Research Agent
 
-An AI agent capable of gathering information, analyzing sources, and generating structured research outputs.
+An AI system capable of performing deep research across multiple sources and generating structured reports.
 
-### Document Intelligence Chatbot
+Technologies:
 
-A conversational AI system designed to answer questions from structured and unstructured documents.
-
-### AI Trading Intelligence System
-
-A machine learning system for analyzing financial market data and generating predictive insights.
+Python • LLMs • Retrieval Systems • Vector Databases
 
 ---
 
-# Platforms & Systems
+### AI Document Question Answering System
 
-### University Learning Management System (LMS)
+An AI assistant that answers questions using company documents and knowledge bases.
 
-A full academic platform supporting course management, grading systems, assignments, exams, and student analytics.
+Technologies:
 
-### Ecommerce Platform
-
-A scalable ecommerce platform supporting product catalogs, orders, payments, and vendor operations.
-
-### Inventory Management System
-
-A system designed to manage stock levels, warehouse operations, and supply chain workflows.
-
-### TransportPro — Logistics & Transportation Platform
-
-A logistics platform coordinating fleet operations, transportation workflows, and supply chain management.
+Python • FastAPI • Vector Search • LLM APIs
 
 ---
 
-# AI Engineering Education
+# Software Platforms
 
-I am developing a **comprehensive AI Engineering educational series** covering:
+## University Learning Management System (LMS)
 
-- programming foundations  
-- machine learning fundamentals  
-- AI agents  
-- AI system architecture  
-- real-world AI applications  
-- production AI deployment  
+A full university-level learning platform supporting:
 
-The goal is to create a **structured roadmap that guides developers from beginner to advanced AI engineering**.
+• course management  
+• assignments  
+• quizzes and exams  
+• grading and rubrics  
+• student registration  
+• GPA and CGPA calculation  
+
+Stack:
+
+Next.js  
+Django REST Framework  
+PostgreSQL  
+Redis  
+Celery
+
+---
+
+## E-Commerce Platform
+
+A scalable online store supporting:
+
+• product management  
+• order processing  
+• inventory management  
+• payment workflows  
+
+Stack:
+
+Next.js  
+Node.js  
+Express  
+PostgreSQL
+
+---
+
+## Inventory Management System
+
+A business system for managing:
+
+• stock  
+• suppliers  
+• purchases  
+• sales tracking  
+
+Stack:
+
+Next.js  
+Node.js  
+Express  
+PostgreSQL
+
+---
+
+# Areas of Expertise
+
+Artificial Intelligence Engineering  
+Machine Learning Systems  
+AI Agents  
+Backend Architecture  
+API Development  
+Distributed Systems  
+Product Engineering
+
+---
+
+# Current Focus
+
+Building:
+
+• Real-world AI applications  
+• AI agent systems  
+• Scalable AI platforms  
+• Educational AI engineering content
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+Building intelligent systems with AI and software engineering.
 </p>
