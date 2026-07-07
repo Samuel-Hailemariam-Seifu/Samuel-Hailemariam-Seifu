@@ -22,7 +22,7 @@ Software engineer since 2022, currently the sole engineer building a company-wid
 
 ## Research
 
-- **[SPATL-XLC](https://github.com/Samuel-Hailemariam-Seifu/SPATL-XLC)** — source code for my first-author paper in IEEE Access. *(Add paper link/DOI here.)*
+- **[SPATL-XLC](https://github.com/Samuel-Hailemariam-Seifu/SPATL-XLC)** — source code for my first-author paper in IEEE Access. *(https://ieeexplore.ieee.org/document/11082156/)*
 
 ## From-Scratch Machine Learning & Deep Learning
 
