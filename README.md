@@ -8,6 +8,7 @@ MSc in AI · First-author, IEEE Access · Fluent English (IELTS 7.5, Speaking 8.
 <p align="center">
   <a href="https://samuelhailemariamseifu.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/samuel-hailemariam-seifu-726a49236/">LinkedIn</a> ·
+  <a href="mailto:samuelhailemariam4@gmail.com">Email</a> ·
   <a href="https://www.upwork.com/freelancers/~01a37eebc3ffd4191d">Upwork</a>
 </p>
 
