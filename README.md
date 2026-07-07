@@ -1,126 +1,58 @@
 <h1 align="center">Samuel Hailemariam Seifu</h1>
-<h3 align="center">AI Engineer | Software Engineer | AI Educator</h3>
+<h3 align="center">AI Engineer | Software Engineer</h3>
 
 <p align="center">
-Building intelligent systems, scalable platforms, and practical AI applications.
+MSc in AI · First-author, IEEE Access · Fluent English (IELTS 7.5, Speaking 8.5)
 </p>
 
-
+<p align="center">
+  <a href="https://samuelhailemariamseifu.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/samuel-hailemariam-seifu-726a49236/">LinkedIn</a> ·
+  <a href="https://www.upwork.com/freelancers/~01a37eebc3ffd4191d">Upwork</a>
+</p>
 
 <p align="center">
    <img src="https://streak-stats.demolab.com/?user=Samuel-Hailemariam-Seifu&theme=default&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Hailemariam-Seifu&layout=compact&theme=default&hide_border=true&cache_seconds=60&v=4" height="165"/>
 </p>
 
+## About
 
+Software engineer since 2022, currently the sole engineer building a company-wide ERP for a construction firm — owning authentication, authorization, and project management modules end to end. MSc in AI with a first-author publication in IEEE Access. I build production web systems fast using modern AI tooling, and I verify and own every line that ships.
 
-# About
+## Currently
 
-I am an **AI engineer and software developer** focused on designing and building **production-ready intelligent systems**.
+- **Software Engineer, CRCC** — sole engineer on an internal ERP (in progress; code is proprietary, not shown here)
 
-My work combines **machine learning, backend engineering, distributed systems, and product development** to create scalable software platforms.
+## From-Scratch Machine Learning & Deep Learning
 
-Areas I actively work on:
+Implementations built without high-level ML frameworks, to demonstrate the underlying math and mechanics rather than API usage.
 
-- Machine learning systems  
-- AI agents and intelligent applications  
-- AI infrastructure and deployment  
-- large-scale backend platforms  
-- AI engineering education  
+- [neural-network-from-scratch-numpy](https://github.com/Samuel-Hailemariam-Seifu/neural-network-from-scratch-numpy)
+- [logistic-regression-from-scratch](https://github.com/Samuel-Hailemariam-Seifu/logistic-regression-from-scratch)
+- [decision-tree-from-scratch](https://github.com/Samuel-Hailemariam-Seifu/decision-tree-from-scratch)
+- [Diffusion-From-Scratch-Mini-DDPM](https://github.com/Samuel-Hailemariam-Seifu/Diffusion-From-Scratch-Mini-DDPM)
+- [mini-transformer](https://github.com/Samuel-Hailemariam-Seifu/mini-transformer)
 
-I am also developing a **complete AI Engineering learning pathway** that guides developers from **programming foundations to real production AI systems**.
+## AI & Applied Systems
 
+- [inference-speed-lab](https://github.com/Samuel-Hailemariam-Seifu/inference-speed-lab) — inference performance/optimization experiments
+- [talk-to-a-pdf](https://github.com/Samuel-Hailemariam-Seifu/talk-to-a-pdf) — document Q&A over PDFs
+- [Chatbot-using-hugging-face](https://github.com/Samuel-Hailemariam-Seifu/Chatbot-using-hugging-face)
 
-# Technology Stack
+## Selected Client Work
 
-### Programming
+- [Noir Cafe](https://github.com/Samuel-Hailemariam-Seifu/Noir-Cafe)
+- [Aurelia Developments](https://github.com/Samuel-Hailemariam-Seifu/Aurelia-Developments)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+*(Full freelance history and reviews on [Upwork](https://www.upwork.com/freelancers/~01a37eebc3ffd4191d).)*
 
-### Machine Learning
+## Technology Stack
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Backend Services
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-# AI Applications
-
-### Autonomous Research Agent
-
-An AI agent capable of gathering information, analyzing sources, and generating structured research outputs.
-
-### Document Intelligence Chatbot
-
-A conversational AI system designed to answer questions from structured and unstructured documents.
-
-### AI Trading Intelligence System
-
-A system for analyzing financial market data and generating predictive insights using machine learning models.
-
-# Platforms & Systems
-
-### University Learning Management System (LMS)
-
-A full academic platform supporting course management, grading, assignments, exams, and student performance analytics.
-
-### Ecommerce Platform
-
-A scalable ecommerce platform supporting product management, payments, order processing, and vendor operations.
-
-### Inventory Management System
-
-A system designed to manage stock levels, warehouse operations, and supply chain workflows.
-
-### TransportPro — Logistics & Transportation Platform
-
-A logistics platform designed to coordinate fleet operations, transportation workflows, and supply chain processes.
-
-# AI Engineering Education
-
-I am developing a **comprehensive AI Engineering educational series** covering:
-
-- programming foundations  
-- machine learning fundamentals  
-- AI agents  
-- AI system architecture  
-- real-world AI applications  
-- production deployment of AI systems  
-
-The objective is to provide a **structured roadmap for developers progressing from beginner to advanced AI engineering**.
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
-</p>
+**Languages:** Python, JavaScript/TypeScript
+**ML/DL:** Scikit-learn, PyTorch, TensorFlow
+**Backend:** Node.js, Express.js, NestJS, Django, Django REST Framework, FastAPI
+**Frontend:** React, Next.js
+**Databases:** PostgreSQL, MongoDB, Redis
+**Backend Services:** Supabase, Firebase
+**Infrastructure:** Docker
