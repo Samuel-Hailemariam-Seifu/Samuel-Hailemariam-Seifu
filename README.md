@@ -22,7 +22,7 @@ Software engineer since 2022, currently the sole engineer building a company-wid
 
 ## Research
 
-- **[SPATL-XLC](https://github.com/Samuel-Hailemariam-Seifu/SPATL-XLC)** — source code for my first-author paper in IEEE Access. *(https://ieeexplore.ieee.org/document/11082156/)*
+- **[SPATL-XLC: An Explainability-Driven Framework for Efficient and Robust Federated Learning Under Non-IID Data](https://doi.org/10.1109/ACCESS.2025.3589535)** — published in IEEE Access, 2025. Source code: [SPATL-XLC](https://github.com/Samuel-Hailemariam-Seifu/SPATL-XLC) (MIT License)
 
 ## From-Scratch Machine Learning & Deep Learning
 
