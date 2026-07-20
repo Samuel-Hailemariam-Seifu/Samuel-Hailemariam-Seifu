@@ -18,11 +18,11 @@ MSc in AI · First-author, IEEE Access · Fluent English (IELTS 7.5, Speaking 8.
 
 ## About
 
-Software engineer since 2022, currently the sole engineer building a company-wide ERP for a construction firm — owning authentication, authorization, and project management modules end to end. MSc in AI with a first-author publication in IEEE Access. I build production web systems fast using modern AI tooling, and I verify and own every line that ships.
+Software engineer since 2022, currently the sole engineer building a company-wide ERP for a construction firm - owning authentication, authorization, and project management modules end to end. MSc in AI with a first-author publication in IEEE Access. I build production web systems fast using modern AI tooling, and I verify and own every line that ships.
 
 ## Research
 
-- **[SPATL-XLC: An Explainability-Driven Framework for Efficient and Robust Federated Learning Under Non-IID Data](https://doi.org/10.1109/ACCESS.2025.3589535)** — published in IEEE Access, 2025. Source code: [SPATL-XLC](https://github.com/Samuel-Hailemariam-Seifu/SPATL-XLC) (MIT License)
+- **[SPATL-XLC: An Explainability-Driven Framework for Efficient and Robust Federated Learning Under Non-IID Data](https://doi.org/10.1109/ACCESS.2025.3589535)**, published in IEEE Access, 2025. Source code: [SPATL-XLC](https://github.com/Samuel-Hailemariam-Seifu/SPATL-XLC) (MIT License)
 
 ## From-Scratch Machine Learning & Deep Learning
 
@@ -36,8 +36,8 @@ Implementations built without high-level ML frameworks, to demonstrate the under
 
 ## AI & Applied Systems
 
-- [inference-speed-lab](https://github.com/Samuel-Hailemariam-Seifu/inference-speed-lab) — inference performance/optimization experiments
-- [talk-to-a-pdf](https://github.com/Samuel-Hailemariam-Seifu/talk-to-a-pdf) — document Q&A over PDFs
+- [inference-speed-lab](https://github.com/Samuel-Hailemariam-Seifu/inference-speed-lab): inference performance/optimization experiments
+- [talk-to-a-pdf](https://github.com/Samuel-Hailemariam-Seifu/talk-to-a-pdf): document Q&A over PDFs
 - [Chatbot-using-hugging-face](https://github.com/Samuel-Hailemariam-Seifu/Chatbot-using-hugging-face)
 
 ## Selected Client Work
