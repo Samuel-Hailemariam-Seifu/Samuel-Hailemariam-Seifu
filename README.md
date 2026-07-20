@@ -11,10 +11,10 @@ MSc in AI · First-author, IEEE Access · Fluent English (IELTS 7.5, Speaking 8.
   <a href="https://www.upwork.com/freelancers/~01a37eebc3ffd4191d">Upwork</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
    <img src="https://streak-stats.demolab.com/?user=Samuel-Hailemariam-Seifu&theme=default&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Hailemariam-Seifu&layout=compact&theme=default&hide_border=true&cache_seconds=60&v=4" height="165"/>
-</p>
+</p> -->
 
 ## About
 
